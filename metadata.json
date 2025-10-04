@@ -1,0 +1,5 @@
+{
+  "name": "Harish Terminal Portfolio model",
+  "description": "A portfolio website with a retro, hacker-style terminal interface. Users can interact with the portfolio by typing commands to learn about my skills, projects, and how to get in contact.",
+  "requestFramePermissions": []
+}
