@@ -7,7 +7,7 @@ const Bio: React.FC = () => {
             <div className="bg-black/80 p-4 rounded-md h-full flex flex-col items-center text-center overflow-y-auto">
                 <div className="w-32 h-32 rounded-full border-2 border-cyan-400 bg-gray-800 mb-4 flex-shrink-0 overflow-hidden">
                     <img 
-                        src="/components/port.jpeg" 
+                        src="https://ibb.co/jZgYjLqb" 
                         width={200}
                     />
                 </div>
